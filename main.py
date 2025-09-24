@@ -55,6 +55,7 @@ def main():
     print(f"📁 Working directory: {os.getcwd()}")
     print(f"👤 Usuários gerados: {len(users)}")
     print(f"📄 Arquivos gerados: users.json, users.csv")
+    print("🔧 Prática de GitHub Actions concluída com sucesso!")
     print("🎉 Prática concluída com sucesso!")
 
 if __name__ == "__main__":
