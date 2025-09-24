@@ -30,7 +30,7 @@ jobs:
       - name: " Verificação da versão do NodeJS atual"
         run: node --version 
       - name: "Definição da versão 22.20.0 do NodeJS"
-      - uses: actions/setup-node@v5
+        uses: actions/setup-node@v5
         with:
           node-version: '22.20.0'
       - name: " Verificação da versão do NodeJS depois de instalado"
