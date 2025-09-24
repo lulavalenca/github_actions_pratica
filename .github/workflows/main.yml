@@ -13,4 +13,4 @@ jobs:
          - name: "Segunda ação"
            run:
             echo "Você criou o seu primeiro workflow !!!"
-            echo "Parabêns !!!"
+            echo "Parabéns !!!"
